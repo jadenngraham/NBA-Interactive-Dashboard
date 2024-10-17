@@ -8,8 +8,11 @@
 
 **Project Outcome**: The outcome of this project was an interactive Tableau dashboard that provides a comprehensive view of player performance over their career. Users can select individual players, view their stats over various seasons, and analyze key metrics. The dashboard includes visualizations such as:
   ●	Key Metrics Overview: Summarizes total points, assists, rebounds, and blocks, providing a quick snapshot     of career achievements.
+  
   ●	Seasonal Performance Trends: Bar charts displaying metrics like rebounds per season, which help users        track a player's performance over the years.
+  
   ●	Shooting Performance Analysis: Line graphs showing trends in three-point shooting percentage,                highlighting improvements or declines in shooting efficiency.
+  
   ●	Player Information Panel: Displays key information about the player, including birth date, height,           weight, nationality, games played, and total minutes played.
 
 **Data Collection**: The dataset used for this project was sourced from Kaggle. The dataset, available here, contains player statistics for various basketball leagues, with a focus on NBA data.
