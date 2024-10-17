@@ -2,7 +2,7 @@
 
 Data Analysis and Visualization Project: NBA Player Performance Dashboard
 
-Scope and Goals: The primary objective of this project was to create an interactive Tableau dashboard that tracks NBA player performance across multiple seasons. The dashboard is designed to showcase key performance metrics, including points, assists, rebounds, and blocks. It allows users to analyze player performance trends, compare different players across their careers, and identify key insights. The goal was to offer a comprehensive view of a player's career, making it easy to understand both basic and advanced aspects of their performance.
+**Scope and Goals**: The primary objective of this project was to create an interactive Tableau dashboard that tracks NBA player performance across multiple seasons. The dashboard is designed to showcase key performance metrics, including points, assists, rebounds, and blocks. It allows users to analyze player performance trends, compare different players across their careers, and identify key insights. The goal was to offer a comprehensive view of a player's career, making it easy to understand both basic and advanced aspects of their performance.
 
 Target Audience: This project was intended for hiring managers at the NBA, basketball analysts, and enthusiasts who want to assess my ability to analyze sports data and present it visually. The interactive nature of the dashboard enables users to filter data by player, season, and team, making it a versatile tool for performance analysis and comparisons.
 
