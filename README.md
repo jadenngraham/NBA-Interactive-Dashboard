@@ -7,6 +7,7 @@
 **Target Audience**: This project was intended for hiring managers at the NBA, basketball analysts, and enthusiasts who want to assess my ability to analyze sports data and present it visually. The interactive nature of the dashboard enables users to filter data by player, season, and team, making it a versatile tool for performance analysis and comparisons.
 
 **Project Outcome**: The outcome of this project was an interactive Tableau dashboard that provides a comprehensive view of player performance over their career. Users can select individual players, view their stats over various seasons, and analyze key metrics. The dashboard includes visualizations such as:
+  
   ●	Key Metrics Overview: Summarizes total points, assists, rebounds, and blocks, providing a quick snapshot     of career achievements.
   
   ●	Seasonal Performance Trends: Bar charts displaying metrics like rebounds per season, which help users        track a player's performance over the years.
